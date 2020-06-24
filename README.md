@@ -15,7 +15,7 @@ Older Builds: [Link(Box)](https://app.box.com/s/z2ga5d5apzzw0x4uebuzx7v2jwr1ccxl
 Nightly Builds(SUSPENDED): [Link(Box)](https://app.box.com/s/gjhaop43ragv0s0lli97vkx7x98cvjm7)
 
 ## How to Install
-NOTICE: I used BandiZip, Zipper 7 2.0 or Github Internal ZIP program to archive it. You can extract this with any other programs, but OWN YOUR RISK. If you ask me for help, I cannot help you ESPECIALLY when you use ALzip to extract this.
+NOTICE: Zipper Series, Bandizip RECOMMENDED for unzip.
 
 For Android:
 1. Download File from Versions Tab or Download Zip for Master Branch.
