@@ -8,7 +8,7 @@ Please visit our [website](https://hncity.pbdiary.pw) to get more information. C
 
 Are you looking for unstable build? Click |Clone or Download| and then select |Download ZIP| to download map. I don't provide my map file via *.mcworld format.
 
-Current Stable Build: none. but planned
+Current Stable Build: none. but planned when haneulcity server opened for BE 1.16.0.
 
 Older Builds: [Link(Box)](https://app.box.com/s/z2ga5d5apzzw0x4uebuzx7v2jwr1ccxl)
 
