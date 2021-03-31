@@ -6,16 +6,16 @@ Please visit our [website](https://hncity.pbdiary.pw) to get more information. C
 
 ## CURRENT BUILD
 
-Are you looking for unstable build? Click |Clone or Download| and then select |Download ZIP| to download map. I don't provide my map file via *.mcworld format.
+Are you looking for quarter build? Click |Clone or Download| and then select |Download ZIP| to download map. We don't provide our map file via *.mcworld format.
 
-Current Stable Build: none. but planned when haneulcity server opened for BE 1.16.0.
+Current Stable Build: none.
 
 Older Builds: [Link(Box)](https://app.box.com/s/z2ga5d5apzzw0x4uebuzx7v2jwr1ccxl)
 
-Nightly Builds(SUSPENDED): [Link(Box)](https://app.box.com/s/gjhaop43ragv0s0lli97vkx7x98cvjm7)
+Nightly Builds(SUSPENDED): [Link(Box)](https://app.box.com/s/adlmvdye5vv7fz835hqn2u0orwiukyry)
 
 ## How to Install
-NOTICE: Zipper Series, Bandizip RECOMMENDED for unzip.
+NOTICE: Zipper Series(Android), Bandizip(Windows, macOS) RECOMMENDED for unzip.
 
 For Android:
 1. Download File from Versions Tab or Download Zip for Master Branch.
@@ -37,4 +37,4 @@ For Windows 10 Edition:
 MINECRAFT is a trademark of Mojang.
 Windows is a trademark of Microsoft Corp.
 
-ⓒ2013- - 2020 paperbox and haneulcity contributors. All right reserved.
+ⓒ2013 - 2021 paperbox and haneulcity contributors. All right reserved.
