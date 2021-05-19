@@ -12,7 +12,7 @@ Current Stable Build: none.
 
 Older Builds: [Link(Box)](https://app.box.com/s/z2ga5d5apzzw0x4uebuzx7v2jwr1ccxl)
 
-Nightly Builds(SUSPENDED): [Link(Box)](https://app.box.com/s/adlmvdye5vv7fz835hqn2u0orwiukyry)
+Nightly Builds: [Link(Box)](https://app.box.com/s/adlmvdye5vv7fz835hqn2u0orwiukyry)
 
 ## How to Install
 NOTICE: Zipper Series(Android), Bandizip(Windows, macOS) RECOMMENDED for unzip.
